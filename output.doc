@@ -1,0 +1,32 @@
+SPHERE
+The sphere surface area is: 3885.042969
+The sphere volume is: 22770.236328
+
+CYLINDER
+The cylinder volume is: 2077.238281
+
+SUM OF ARRAY ELEMENTS
+The array in unsorted order: 
+0.347679
+100400.796875
+0.000010
+1.343567
+78.345673
+1678.567017
+997999.625000
+0.000001
+The array in sorted ascending order: 
+0.000001
+0.000010
+0.347679
+1.343567
+78.345673
+1678.567017
+100400.796875
+997999.625000
+The sum of the values is: 1100159.000000
+
+SINE
+The sin of 45.000000 is: 0.706634
+The sin of 36.000000 is: 0.587683
+The sin of 0.345000 is: 0.006021

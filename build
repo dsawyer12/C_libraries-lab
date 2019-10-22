@@ -1,0 +1,9 @@
+gcc -fPIC -c sphere.c
+gcc -fPIC -c volCylinder.c
+gcc -fPIC -c sumFloat.c
+gcc -fPIC -c sine.c
+
+gcc -shared -o libapi.so sphere.o volCylinder.o sumFloat.o sine.o
+
+gcc libTest.c -L. -lapi -o main -ldl
+gcc -o main libTest.c -L. -lapi
